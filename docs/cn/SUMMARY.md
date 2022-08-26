@@ -49,8 +49,6 @@
   * [Journal数据](data-pipeline/input/service-journal.md)
   * [Kafka](data-pipeline/input/service-kafka.md)
   * [Mock数据-Service](data-pipeline/input/service-mock.md)
-  * [SqlServer 查询数据](data-pipeline/input/service-mssql.md)
-  * [PostgreSQL 查询数据](data-pipeline/input/service-pgsql.md)
   * [Syslog数据](data-pipeline/input/service-syslog.md)
 * [处理](data-pipeline/processor/README.md)
   * [添加字段](data-pipeline/processor/processor-add-fields.md)
@@ -115,7 +113,7 @@
 
 * [容器场景iLogtail与Filebeat性能对比测试](benchmark/performance-compare-with-filebeat.md)
 
-## Awesome iLogtail <a href="#awesome-ilogtail" id="awesome-ilogtail"></a>
+## Awesome iLogtail
 
 * [走近iLogtail社区版](awesome-ilogtail/ilogtail.md)
 * [iLogtail社区版使用入门](awesome-ilogtail/getting-started.md)
