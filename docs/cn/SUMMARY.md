@@ -50,6 +50,7 @@
   * [Kafka](data-pipeline/input/service-kafka.md)
   * [Mock数据-Service](data-pipeline/input/service-mock.md)
   * [Syslog数据](data-pipeline/input/service-syslog.md)
+  * [eBPF网络调用数据](data-pipeline/input/metric-observer.md)
 * [处理](data-pipeline/processor/README.md)
   * [添加字段](data-pipeline/processor/processor-add-fields.md)
   * [原始数据](data-pipeline/processor/default.md)
